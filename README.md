@@ -1,2 +1,3 @@
 # JSlearning
-Learning some js
+Learning some js and commit/push to git
+
